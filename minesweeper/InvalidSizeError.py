@@ -1,0 +1,2 @@
+class InvalidSizeError(Exception):
+    pass

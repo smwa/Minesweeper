@@ -1,0 +1,2 @@
+class InvalidNumberOfMinesError(Exception):
+    pass
